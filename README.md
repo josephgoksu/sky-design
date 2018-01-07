@@ -1,5 +1,7 @@
 ![](https://raw.githubusercontent.com/y7usuf/sky-design/master/skydesign.png)
 
+( Still in :construction: )
+
 Hey! It's Sky-Design, the CSS & Design Reference for developers who care about good design.
 
 > “Design is a solution to a problem. Art is a question to a problem.” – **John Maeda**
@@ -9,12 +11,15 @@ Hey! It's Sky-Design, the CSS & Design Reference for developers who care about g
 * Color Picker Tools
 * Free Images & Assets
 * Fonts & Typography
-* CSS Code Snippets (Soon)
+* Style Guide
+* CSS Code Snippets ( :soon: )
 * CSS Frameworks
 	* Base / Reset / Normalize
 	* Very Lightweight
 	* General Purpose
 	* Material Design
+
+## Tutorials :book:
 
 
 ### Color Picker Tools
@@ -35,6 +40,23 @@ Hey! It's Sky-Design, the CSS & Design Reference for developers who care about g
 3. [Beautiful Web Type](http://hellohappy.org/beautiful-web-type)
 4. [Typewolf](https://www.typewolf.com/): A collection of inspirational sites with fonts listed
 5. [Google Web Fonts Helper](http://google-webfonts-helper.herokuapp.com/fonts): Lets you download the fonts you like, so you can host your fonts.
+
+
+### Style Guide
+
+* [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) by lonely planet.
+* [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) by Dropbox.
+* [Fabric](https://dev.office.com/fabric#/) by Microsoft.
+* [GitHub CSS Style Guide](https://primer.github.io/) by Github.
+* [Official Trello CSS Guide](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) by Bobby Grace.
+* [Solid](http://solid.buzzfeed.com/) by BuzzFeed.
+* [Patterns](http://ux.mailchimp.com/patterns) by MailChimp.
+* [Lighting Design System](https://www.lightningdesignsystem.com/) by Salesforce.
+* [Walmart Web Style Guide](http://walmartlabs.github.io/web-style-guide/) by Walmartlabs.
+* [SASS Style Guide](http://sass-lang.com/styleguide) by Sass team.
+* [Style Guide](http://www.starbucks.com/static/reference/styleguide/) by Starbucks.
+* [Website Style Guide Resources](http://styleguides.io/examples.html) by Awesome people.
+
 
 ### CSS Frameworks
 
