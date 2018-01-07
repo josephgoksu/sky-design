@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/y7usuf/sky-design/master/skydesign.png)
 
-Hey! It's Sky-Design, the CSS & Design Reference for developers who cares good design.
+Hey! It's Sky-Design, the CSS & Design Reference for developers who care about good design.
 
 > “Design is a solution to a problem. Art is a question to a problem.” – **John Maeda**
 
