@@ -8,12 +8,13 @@ Hey! It's Sky-Design, the CSS & Design Reference for developers who care about g
 
 ## Table Of Contents
 
-* Color Picker Tools
-* Free Images & Assets
-* Fonts & Typography
+* [Color Picker Tools](#color-picker-tools)
+* [Free Images & Assets](#free-images--assets)
+* [Fonts & Typography](#fonts--typography)
+* [Design Blogs](#style-guide)
 * Style Guide
 * CSS Code Snippets ( :soon: )
-* CSS Frameworks
+* [CSS Frameworks](#css-frameworks)
 	* Base / Reset / Normalize
 	* Very Lightweight
 	* General Purpose
@@ -41,9 +42,10 @@ Hey! It's Sky-Design, the CSS & Design Reference for developers who care about g
 4. [Typewolf](https://www.typewolf.com/): A collection of inspirational sites with fonts listed
 5. [Google Web Fonts Helper](http://google-webfonts-helper.herokuapp.com/fonts): Lets you download the fonts you like, so you can host your fonts.
 
+### Design Blogs
+* [Increment](https://increment.com/) by Stripe
 
 ### Style Guide
-
 * [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) by lonely planet.
 * [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) by Dropbox.
 * [Fabric](https://dev.office.com/fabric#/) by Microsoft.
