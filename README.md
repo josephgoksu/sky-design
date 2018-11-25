@@ -52,7 +52,7 @@ Hey! It's Sky-Design, the CSS & Design Reference for developers who care about g
 
 2. [5 Minutes Guide to Better Typography](http://pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography)
 
-3. [Beautiful Web Type](http://hellohappy.org/beautiful-web-type)
+3. [Beautiful Web Type](https://beautifulwebtype.com)
 
 4. [Typewolf](https://www.typewolf.com/): A collection of inspirational sites with fonts listed
 
